@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepakschauhan&repo=awgpstore)](https://github.com/deepakschauhan/awgpstore)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepakschauhan&repo=webapp-awgp-erp)](https://github.com/deepakschauhan/webapp-awgp-erp)
 
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Facebook Badge](https://img.shields.io/badge/-@nidhi.yadav.902604?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/nidhi.yadav.902604)](https://www.facebook.com/nidhi.yadav.902604) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
