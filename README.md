@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![deepakschauhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakschauhan&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![deepakschauhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakschauhan&theme=flag-india&show_icons=true)
+)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/deepakschauhan)
 
