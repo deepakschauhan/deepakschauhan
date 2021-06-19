@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![deepakschauhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakschauhan)](https://github.com/anuraghazra/github-readme-stats)
+[![deepakschauhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakschauhan&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/deepakschauhan)
 
