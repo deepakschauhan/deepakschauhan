@@ -20,9 +20,14 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/deepakschauhan)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepakschauhan&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakschauhan&theme=radical&layout=compact" width="100%" height="200em"/>
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=deepakschauhan&count_private=true&theme=chartreuse-dark" width="100%" height="200em"/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepakschauhan&repo=billManage)](https://github.com/deepakschauhan/billManage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepakschauhan&repo=taxinvoice)](https://github.com/deepakschauhan/taxinvoice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepakschauhan&repo=deepakschauhan.github.io)](https://github.com/deepakschauhan/deepakschauhan.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepakschauhan&repo=yajan-doc)](https://github.com/deepakschauhan/yajan-doc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepakschauhan&repo=rdmahp)](https://github.com/deepakschauhan/rdmahp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepakschauhan&repo=awgpstore)](https://github.com/deepakschauhan/awgpstore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepakschauhan&repo=webapp-awgp-erp)](https://github.com/deepakschauhan/webapp-awgp-erp)
 
