@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/deepakschauhan)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakschauhan&theme=radical&layout=compact" width="100%" height="200em"/>
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=deepakschauhan&count_private=true&theme=radical" width="100%" height="200em"/>
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=deepakschauhan&count_private=true&theme=slateorange" width="100%" height="200em"/>
 
