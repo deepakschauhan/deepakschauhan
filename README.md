@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![deepakschauhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakschauhan&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![deepakschauhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakschauhan&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/deepakschauhan)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakschauhan&theme=radical&layout=compact" width="100%" height="200em"/>
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=deepakschauhan&count_private=true&theme=slateorange" width="100%" height="200em"/>
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=deepakschauhan&count_private=true&theme=chartreuse-dark" width="100%" height="200em"/>
 
