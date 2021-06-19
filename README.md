@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/deepakschauhan)
 
 [![deepakschauhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakschauhan&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 
