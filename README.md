@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![deepakschauhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakschauhan&theme=flag-india&show_icons=true)
-)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Profile views](https://gpvc.arturio.dev/deepakschauhan)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakschauhan&theme=radical&layout=compact" width="100%" height="200em"/>
+[![deepakschauhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakschauhan&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakschauhan&theme=radical&layout=compact" width="100%" />
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=deepakschauhan&count_private=true&theme=chartreuse-dark" width="" height="200em" position="absolute" bottom="200px" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepakschauhan&repo=billManage)](https://github.com/deepakschauhan/billManage)
