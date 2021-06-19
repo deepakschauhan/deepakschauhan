@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**deeakschauhan/deeakschauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**deepakschauhan/deepakschauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![deeakschauhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeakschauhan)](https://github.com/anuraghazra/github-readme-stats)
+[![deepakschauhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakschauhan)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/deeakschauhan)
+![Profile views](https://gpvc.arturio.dev/deepakschauhan)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeakschauhan&theme=radical&layout=compact" width="100%" height="200em"/>
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=deeakschauhan&count_private=true&theme=radical" width="100%" height="200em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakschauhan&theme=radical&layout=compact" width="100%" height="200em"/>
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=deepakschauhan&count_private=true&theme=radical" width="100%" height="200em"/>
 
