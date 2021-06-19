@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/deepakschauhan)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepakschauhan&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakschauhan&theme=radical&layout=compact" width="100%" height="200em"/>
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=deepakschauhan&count_private=true&theme=chartreuse-dark" width="100%" height="200em"/>
 
